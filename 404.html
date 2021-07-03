@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
+    rel="stylesheet">
+
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+
+    <base href="">
+    <title> myund&#39;s blog </title>
+    <meta name="description" content="myund&#39;s blog">
+
+    <link rel="canonical" href="/404.html">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+    
+    <link rel="stylesheet" href="/sass/main.min.ea079850fa97a91d0d8d4e74de17363d34109934682effbd06eb37ed6cef3443.css">
+
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
+
+    <link rel="stylesheet" type="text/css"
+        href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L3NCZF8X4R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-L3NCZF8X4R');
+    </script>
+
+    
+    <script data-ad-client="ca-pub-6940728608544651" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    <script>
+        $(function () {
+            $(".cat1>li").click(function () {
+                $(this).siblings().find('ul').slideUp(300);
+                $(this).find('ul').slideToggle(300);
+            })
+
+            $(window).scroll(function () {
+                activeBg();
+            });
+
+            activeBg();
+
+
+            $('.h-menu').click(function (e) {
+                e.preventDefault();
+                $('.side').addClass('on');
+            });
+
+            $('.close').click(function (e) {
+                e.preventDefault();
+                $('.side').removeClass('on');
+            });
+
+            $('ul.slide>li').click(function () {
+                if ($(this).find('.down').hasClass('on')) {
+                    $(this).find('.down').removeClass('on');
+                    $(this).find('.down').prev().stop().slideUp(500);
+                } else {
+                    $(this).find('.down').addClass('on');
+                    $(this).find('.down').prev().stop().slideDown(500);
+                }
+            })
+        })
+
+        function activeBg() {
+            if ($(window).scrollTop() > 0) {
+                $('.site-header').addClass('on');
+            } else {
+                $('.site-header').removeClass('on');
+            }
+        }
+
+    </script>
+</head>
+<header class="site-header">
+    <h1 class="web-t" onclick="window.location.href='/'"><span>function</span><em> 천방지축 얼렁뚱땅
+        </em><span>(</span><i>🤣</i><span>)</span>{<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;<span class="nbsp">title =</span> 빙글빙글 돌아가는 맨딩이의 개발일지
+        <br />
+        }
+    </h1>
+
+    <h1 class="mob-t" onclick="window.location.href='/'">
+        <span>천/얼/빙/돌(</span><i>🤣</i><span>)</span>
+        <br />맨딩이의 개발일지
+    </h1>
+
+    <nav>
+        <div class="h-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="side">
+            <div class="close">
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="slide">
+                <li class="on"><a href="#">All Post</a>
+                </li>
+                <li><a>devlopment</a>
+                    <ul>
+                        <li><a href="/development/htmlcss">HTML & CSS</a></li>
+                        <li><a href="/development/javascriptjquery">Javascript & Jquery</a></li>
+                        <li><a href="/development/framework">Framework</a></li>
+                        <li><a href="/development/velog">Velog</a></li>
+                    </ul>
+                    <span class="down"></span>
+                </li>
+                <hr />
+                <li><a href="/about">About</a></li>
+                <li><a href="/archive">Archive</a></li>
+                <li><a href="/tags">Tag</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<body>
+    <div class="content">
+        
+        
+<main id="main">
+    <div>
+        <h1 id="title"><a href="/%20/">Go Home</a></h1>
+    </div>
+</main>
+
+    </div>
+    <ul class='social'>
+    
+    <li>
+        <a href="https://github.com/skye3133" class="icon alt" target="_blank">
+            <i class="fa fa-github fa-2x"></i>
+        </a>
+    </li>
+    
+    <li>
+        <a href="https://www.linkedin.com/in/hyunji-kim-b90b39208/" class="icon alt" target="_blank">
+            <i class="fa fa-linkedin fa-2x"></i>
+        </a>
+    </li>
+    
+</ul>
+<footer class="site-footer">
+    <p ckass="text">Powered by <a href="https://mingzz1.github.io" target="_blank">mingzzi</a> with <a
+            href="https://myun-d.github.io/" target="_blank">myund</a></p>
+</footer>
+    <script id="dsq-count-scr" src="//.disqus.com/count.js" async></script>
+
+    
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'G-L3NCZF8X4R']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+    
+</body>
+</body>
+
+</html>

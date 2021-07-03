@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/development/velog/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/development/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/subcategories/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/velog/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/subcategories/velog/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/development/velog/2021/07/03/start.html/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/development/framework/</loc>
+  </url>
+  
+  <url>
+    <loc>/development/htmlcss/</loc>
+  </url>
+  
+  <url>
+    <loc>/development/javascriptjquery/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>

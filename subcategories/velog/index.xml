@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Velog on myund&#39;s blog</title>
+    <link>/subcategories/velog/</link>
+    <description>Recent content in Velog on myund&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/subcategories/velog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>📢 나 김맨딩. 개발일지... 시작한다.</title>
+      <link>/development/velog/2021/07/03/start.html/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/development/velog/2021/07/03/start.html/</guid>
+      <description>&lt;p&gt;개발자로서 회사에 다닌지 어언 10개월,, 드디어 정신차리고 나의 몸값을 올리기 위해 개발일지를 시작해보려한다.
+과연 앞으로 어떤 일이 벌어지고 어떤 글을 적게 될 지!!! 벌써 기대 되는 군&amp;hellip;ㅎㅎ&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
